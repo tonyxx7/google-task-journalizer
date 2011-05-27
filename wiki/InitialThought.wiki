@@ -14,4 +14,4 @@ But now the list has grown so long that it became unproductive. I don't want to 
 
 Yesterday (26/05/2011), while listening to [http://www.hanselman.com/blog/ Scott Hanselman]'s podcast on the topic of [http://www.hanselman.com/blog/HanselminutesPodcast234GettingThingsDoneWithLaneNewsom.aspx GTD], an idea suddenly sparked me. It's about archiving email as mentioned in the podcast. So I started thinking why can't we archive tasks on Google Task. That way, I can keep a history of what I have done, at the time keeping my todo list clean and neat.
 
-Later, I realize that it can so be done for Google Calendar's entries. Suddenly I felt the urge to start the project, and can't wait to see the result.
+Later, I realize that it can also be done for Google Calendar's entries. Suddenly I felt the urge to start the project, and can't wait to see the result.
